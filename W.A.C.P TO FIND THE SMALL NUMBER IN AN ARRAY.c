@@ -15,6 +15,6 @@ int main(){
 		if (a[i]<max)
 		max=a[i];
 	}
-	printf("\n The largest is :%d",max);
+	printf("\n The SMALLEST is :%d",max);
 	return 0;
 }
